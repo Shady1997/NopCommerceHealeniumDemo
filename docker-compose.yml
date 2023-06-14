@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  xyzbank:
+    image: xyzbank
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 3010:3010

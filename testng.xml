@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Nop Commerce Automation Project" parallel="tests" thread-count="1">
+    <listeners>
+        <listener class-name="listener.TestExecutionListener" />
+    </listeners>
+    <test name="demo">
+        <parameter name="browser" value="Chrome" />
+        <classes>
+            <class name="testcases.TC01_CheckLogin" />
+        </classes>
+    </test>
+    <!--<test name="TestFirefox"> <parameter name="browser" value="Firefox"
+        /> <classes> <class name="main.Start" /> </classes> </test> -->
+</suite>
