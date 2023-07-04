@@ -75,3 +75,14 @@
 2023-05-21 12:15:48  [com.epam.healenium.client.RestClient] (TestNG-tests-1:) Failed to make response
 2023-05-21 12:15:48  [com.epam.healenium.client.RestClient] (TestNG-tests-1:) Failed to make response
 2023-05-21 12:15:49  [testcases.TC01_CheckLogin] (TestNG-tests-1:) logging Successfully
+2023-06-16 22:18:28  [io.github.bonigarcia.wdm.WebDriverManager] (TestNG-tests-1:) Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-06-16 22:18:28  [io.github.bonigarcia.wdm.WebDriverManager] (TestNG-tests-1:) Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-06-16 22:18:29  [io.github.bonigarcia.wdm.online.Downloader] (TestNG-tests-1:) Downloading https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2023-06-16 22:18:35  [io.github.bonigarcia.wdm.online.Downloader] (TestNG-tests-1:) Extracting driver from compressed file chromedriver_win32.zip
+2023-06-16 22:18:36  [io.github.bonigarcia.wdm.WebDriverManager] (TestNG-tests-1:) Exporting webdriver.chrome.driver as C:\Users\G525585\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-06-16 22:18:50  [testcases.TC01_CheckLogin] (TestNG-tests-1:) load url
+2023-06-16 22:18:51  [com.epam.healenium.client.RestClient] (TestNG-tests-1:) Failed to make response
+2023-06-16 22:18:52  [com.epam.healenium.client.RestClient] (TestNG-tests-1:) Failed to make response
+2023-06-16 22:18:53  [com.epam.healenium.client.RestClient] (TestNG-tests-1:) Failed to make response
+2023-06-16 22:18:53  [com.epam.healenium.client.RestClient] (TestNG-tests-1:) Failed to make response
+2023-06-16 22:18:54  [testcases.TC01_CheckLogin] (TestNG-tests-1:) logging Successfully
